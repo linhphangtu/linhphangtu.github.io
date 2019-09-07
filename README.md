@@ -1,1 +1,3 @@
-# linhphangtu.github.io
+---
+permalink: /index.html
+---
